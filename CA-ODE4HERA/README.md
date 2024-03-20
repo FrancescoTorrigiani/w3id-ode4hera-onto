@@ -1,16 +1,16 @@
 # ODE4HERA Ontologies
 Repository created to store the redirections of the ODE4HERA ontologies.
 
-## `/CA-ODE4HERA/bibliography`
+## `/CA-ODE4HERA/Bibliography`
 * HTML: https://ode4hera.github.io/Bibliography/bibliographyDoc/
 * RDF/XML: https://ode4hera.github.io/Bibliography/ode4hera_bibliography.owl
 * TTL: https://ode4hera.github.io/Bibliography/ode4hera_bibliography.ttl
 
-## `/CA-ODE4HERA/bibliography-data`
+## `/CA-ODE4HERA/BibliographyData`
 no content negotiation
 * TTL: https://ode4hera.github.io/Bibliography/ode4hera_bibliography_data.ttl
 
-## `/CA-ODE4HERA/glossary`
+## `/CA-ODE4HERA/Glossary`
 * HTML: https://ode4hera.github.io/Glossary/glossaryDoc/
 * RDF/XML: https://ode4hera.github.io/Glossary/ode4hera_glossary.owl
 * TTL: https://ode4hera.github.io/Glossary/ode4hera_glossary.ttl
